@@ -89,10 +89,6 @@
 		 - To prevent iOS from applying its styles to the icon name it thusly: apple-touch-icon-precomposed.png
 		 - Transparency is not recommended (iOS will put a black BG behind the icon) -->
 	
-	<!-- CSS: screen, mobile & print are all in the same file -->
-
-	<!-- CSS: Twitter Bootstrap addition -->
-	<link rel="stylesheet" href="http://twitter.github.com/bootstrap/assets/css/bootstrap-1.2.0.min.css">
 	<link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>">
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
 
