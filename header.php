@@ -106,10 +106,7 @@
 <script type="text/javascript">(function(w,d){if(w.location!=w.parent.location||w.location.search.indexOf('__preview_css__')>-1){var t=d.createElement('script');t.type='text/javascript';t.async=true;t.src='http://www.webputty.net/js/agtzfmNzc2ZpZGRsZXIMCxIEUGFnZRjplisM';(d.body||d.documentElement).appendChild(t);}})(window,document);</script>
 </head>
 
-<body <?php body_class(); ?> >
-	
-	<div id="wrapper" class="container">
-	
+<body <?php body_class(); ?> >	
 		<header id="header" class="row">
 		<div id="logo" class="span6 columns"><a href="/"><img src="http://globalmana.welovewebsit.es/wp-content/uploads/2011/11/globalmanalogo.png"><h1><?php bloginfo('name'); ?></a></h1><div class="description"><?php bloginfo('description'); ?></div></a></div>
 			<div id="social" class="span2 columns offset7 padded">
