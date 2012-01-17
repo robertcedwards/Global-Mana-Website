@@ -1,6 +1,5 @@
 <?php/*Template Name: Home*/?>
 
-		<div id="logo" class="span6 columns"><a href="/"><img src="<?php bloginfo('template_directory'); ?>/_/img/logo.png"><h1><?php bloginfo('name'); ?></a></h1><div class="description"><?php bloginfo('description'); ?></div></a></div>
 <div id="top">
 <div id="video" class="content">
 <div class="videoWrapper"><iframe src="http://www.youtube.com/embed/CZ8x6iebBKU" frameborder="0" width="320" height="240"></iframe></div>
