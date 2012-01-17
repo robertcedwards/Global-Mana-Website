@@ -1,6 +1,5 @@
 <?php/*Template Name: Home*/?>
 
-<?php get_header(); ?>
 
 	<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 		<article class="post row" id="post-<?php the_ID(); ?>">
@@ -13,6 +12,6 @@
 		</article>
 
 		<?php endwhile; endif; ?>
-		
 
+<?php get_header(); ?>
 <?php get_footer(); ?>
