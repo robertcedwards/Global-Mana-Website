@@ -4,6 +4,7 @@
 <div id="top">
 <div id="video" class="content">
 <div class="videoWrapper"><iframe src="http://www.youtube.com/embed/CZ8x6iebBKU" frameborder="0" width="320" height="240"></iframe></div>
+</div>
 <div id="call" class="content">
 <h2>We Can Stop Our Earth’s Destruction</h2>
 <h3>Our Race is Destroying our Planet.</h3>
