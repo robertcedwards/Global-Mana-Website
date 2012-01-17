@@ -4,9 +4,6 @@
 <div id="top">
 <div id="video" class="content">
 <div class="videoWrapper"><iframe src="http://www.youtube.com/embed/CZ8x6iebBKU" frameborder="0" width="320" height="240"></iframe></div>
-<iframe style="border: none; overflow: hidden;" src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FGlobal-Mana-Foundation%2F130741953625765&amp;width=292&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=false&amp;header=true&amp;height=62&amp;appId=250052061688474" frameborder="0" scrolling="no" width="320" height="240"></iframe>
-
-</div>
 <div id="call" class="content">
 <h2>We Can Stop Our Earth’s Destruction</h2>
 <h3>Our Race is Destroying our Planet.</h3>
