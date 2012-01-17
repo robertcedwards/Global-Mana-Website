@@ -108,7 +108,7 @@
 
 <body <?php body_class(); ?> >	
 		<header id="header" class="row">
-		<div id="logo" class="span6 columns"><a href="/"><img src="http://globalmana.welovewebsit.es/wp-content/uploads/2011/11/globalmanalogo.png"><h1><?php bloginfo('name'); ?></a></h1><div class="description"><?php bloginfo('description'); ?></div></a></div>
+		<div id="logo" class="span6 columns"><a href="/"><img src="<?php bloginfo('template_directory'); ?>/_/img/logo.png"><h1><?php bloginfo('name'); ?></a></h1><div class="description"><?php bloginfo('description'); ?></div></a></div>
 			<div id="social" class="span2 columns offset7 padded">
 				<span><a href="http://www.facebook.com/pages/Global-Mana-Foundation/130741953625765"><img src="<?php bloginfo('template_directory'); ?>/_/img/fb.png"</a></span>		
 				<span><a href="http://www.youtube.com/user/GlobalMana"><img src="<?php bloginfo('template_directory'); ?>/_/img/youtube.png"</a></span>		
