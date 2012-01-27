@@ -160,7 +160,7 @@ body{background-color: #333333;}
 .hidden{display: none;}
 .padded{padding:15px 0 15px 0;}
 .post {}
-.wrapper {background-color: #ccc;}
+.wrapper {}
 .entry-content {}
 .entry-content a {}
 .entry-content a:hover {}

@@ -108,31 +108,32 @@
 
 <body <?php body_class(); ?> >
 <div id="top">
-<div id="video" class="content">
-<div class="videoWrapper"><iframe src="http://www.youtube.com/embed/CZ8x6iebBKU" frameborder="0" width="320" height="240"></iframe></div>
-</div>
-<div id="call" class="content">
-<h2>We Can Stop Our Earth’s Destruction</h2>
-<h3>Our Race is Destroying our Planet.</h3>
-There are solutions to our problems already available-- we need to make the choice to adopt them.
+	<div id="video" class="">
+		<div class="videoWrapper"><iframe src="http://www.youtube.com/embed/CZ8x6iebBKU" frameborder="0" width="320" height="240">	</iframe></div>
+	</div>
+	<div id="call" class="content">
 
-With every action you take and every dollar you
+<h2>Our Race is Destroying the Planet.</h2><p>
+There are solutions to our problems already available--<br/>
+we need to make the choice to adopt them.</p>
+
+<p>With every action you take and every dollar you
 spend-- you <strong>support our planet</strong> or,
-<strong>contribute to its destruction.</strong>
+<strong>contribute to its destruction.</strong></p>
 
-Global Mana Foundation’s mission is educating people about the impact of their actions and to promote common sense solutions to conscious living.
+<p>Join the fight to save our Planet. Make the Global Mana Pledge</p>
 
 <a class="button">Make The Pledge</a>
-
-</div>
+	</div>
 </div>	
-		<header id="header" class="row">
-		<div id="logo" class="span6 columns"><a href="/"><img src="<?php bloginfo('template_directory'); ?>/_/img/logo.png"><h1><?php bloginfo('name'); ?></a></h1><div class="description"><?php bloginfo('description'); ?></div></a></div>
-			<div id="social" class="span2 columns offset7 padded">
-				<span><a href="http://www.facebook.com/pages/Global-Mana-Foundation/130741953625765"><img src="<?php bloginfo('template_directory'); ?>/_/img/fb.png"</a></span>		
-				<span><a href="http://www.youtube.com/user/GlobalMana"><img src="<?php bloginfo('template_directory'); ?>/_/img/youtube.png"</a></span>		
-			</div>
-			<nav id="nav" class="span8 columns offset1">
+		<header id="menu" class="">
+		<div id="logo" class=""><a href="/"><img src="<?php bloginfo('template_directory'); ?>/_/img/logo.png"></div>
+<span class="Tagline"><span id="NAME"><?php bloginfo('name'); ?></span><BR/><span class="description"><?php bloginfo('description'); ?></span></a></span>
+			<nav id="nav" class="">
 				<?php wp_nav_menu( array( 'header-menu' => __( 'Header Menu' ) ,'sort_column' => 'menu_order' , 'menu_class' => '', 'fallback_cb' => '') ); ?>
 			</nav>
+<div id="social" class=" ">
+				<span><a href="http://www.facebook.com/pages/Global-Mana-Foundation/130741953625765"><img src="<?php bloginfo('template_directory'); ?>/_/img/fb.png"></a></span>		
+				<span><a href="http://www.youtube.com/user/GlobalMana"><img src="<?php bloginfo('template_directory'); ?>/_/img/youtube.png"></a></span>		
+			</div>
 		</header>
